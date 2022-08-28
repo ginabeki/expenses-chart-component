@@ -1,0 +1,24 @@
+{
+  "name": "expenses-chart-component",
+  "version": "1.0.0",
+  "description": "![Design preview for the Expenses chart component coding challenge](./design/desktop-preview.jpg)",
+  "main": "index.js",
+  "scripts": {
+    "sass-build": "sass sass/main.scss css/style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ginabeki/expenses-chart-component.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ginabeki/expenses-chart-component/issues"
+  },
+  "homepage": "https://github.com/ginabeki/expenses-chart-component#readme",
+  "dependencies": {
+    "chart.js": "^3.9.1",
+    "sass": "^1.54.5"
+  }
+}
